@@ -14,3 +14,6 @@ C:\Users\devpc\Source\Repos\SqlDependencyPoc\SqlDependencyPoc\NewUserHandler\obj
 C:\Projects\SqlDependencyPoc\NewUserHandler\bin\Debug\NewUserHandler.exe.config
 C:\Projects\SqlDependencyPoc\NewUserHandler\obj\Debug\NewUserHandler.exe
 C:\Projects\SqlDependencyPoc\NewUserHandler\obj\Debug\NewUserHandler.pdb
+C:\Projects\SqlDependencyPoc\NewUserHandler\bin\Debug\NewUserHandler.exe
+C:\Projects\SqlDependencyPoc\NewUserHandler\bin\Debug\NewUserHandler.pdb
+C:\Projects\SqlDependencyPoc\NewUserHandler\obj\Debug\NewUserHandler.csprojResolveAssemblyReference.cache
