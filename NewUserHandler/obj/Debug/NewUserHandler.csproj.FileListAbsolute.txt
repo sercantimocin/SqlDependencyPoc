@@ -1,0 +1,16 @@
+C:\Users\sercan.timocin\Source\Repos\SqlTableDependencyPoc\SqlTableDependencyPoc\NewUserHandler\bin\Debug\NewUserHandler.exe.config
+C:\Users\devpc\Source\Repos\SqlTableDependencyPoc\SqlTableDependencyPoc\NewUserHandler\bin\Debug\NewUserHandler.exe.config
+C:\Users\devpc\Source\Repos\SqlTableDependencyPoc\SqlTableDependencyPoc\NewUserHandler\bin\Debug\NewUserHandler.exe
+C:\Users\devpc\Source\Repos\SqlTableDependencyPoc\SqlTableDependencyPoc\NewUserHandler\bin\Debug\NewUserHandler.pdb
+C:\Users\devpc\Source\Repos\SqlTableDependencyPoc\SqlTableDependencyPoc\NewUserHandler\obj\Debug\NewUserHandler.csprojResolveAssemblyReference.cache
+C:\Users\devpc\Source\Repos\SqlTableDependencyPoc\SqlTableDependencyPoc\NewUserHandler\obj\Debug\NewUserHandler.exe
+C:\Users\devpc\Source\Repos\SqlTableDependencyPoc\SqlTableDependencyPoc\NewUserHandler\obj\Debug\NewUserHandler.pdb
+C:\Users\devpc\Source\Repos\SqlDependencyPoc\SqlDependencyPoc\NewUserHandler\bin\Debug\NewUserHandler.exe.config
+C:\Users\devpc\Source\Repos\SqlDependencyPoc\SqlDependencyPoc\NewUserHandler\obj\Debug\NewUserHandler.exe
+C:\Users\devpc\Source\Repos\SqlDependencyPoc\SqlDependencyPoc\NewUserHandler\obj\Debug\NewUserHandler.pdb
+C:\Users\devpc\Source\Repos\SqlDependencyPoc\SqlDependencyPoc\NewUserHandler\bin\Debug\NewUserHandler.exe
+C:\Users\devpc\Source\Repos\SqlDependencyPoc\SqlDependencyPoc\NewUserHandler\bin\Debug\NewUserHandler.pdb
+C:\Users\devpc\Source\Repos\SqlDependencyPoc\SqlDependencyPoc\NewUserHandler\obj\Debug\NewUserHandler.csprojResolveAssemblyReference.cache
+C:\Projects\SqlDependencyPoc\NewUserHandler\bin\Debug\NewUserHandler.exe.config
+C:\Projects\SqlDependencyPoc\NewUserHandler\obj\Debug\NewUserHandler.exe
+C:\Projects\SqlDependencyPoc\NewUserHandler\obj\Debug\NewUserHandler.pdb
